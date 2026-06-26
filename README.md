@@ -14,7 +14,7 @@ On the recording I promised to share the documents we talked about, so anyone ca
 Drop these files into your own AI agent and tell it to read them. The Six Laws are written to be loaded by an agent at the start of every session.
 
 ## Links
-- The conversation: https://youtu.be/rzvHqOtd6uc
+- The conversation: https://www.youtube.com/watch?v=r2voTHdI-v8
 - Matteo Cassese: https://matteoc.com
 - Alex Pedori: https://pedori.com
 
